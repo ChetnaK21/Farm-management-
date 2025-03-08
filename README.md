@@ -24,7 +24,7 @@ To run the Farm Management Android App, follow these steps:
 
 5. **Run the App**: Start the app using `npm start` or `yarn start`.
 
-6. **Test the App**: Open the app on an Android emulator or a physical device to explore its functionalities.
+6. **Test the App** : Open the app on an Android emulator or a physical device to explore its functionalities.
 
 7. **Explore Features**: Experiment with weather updates, seed purchasing, seed information, and disease prediction features to understand their functionality.
 
