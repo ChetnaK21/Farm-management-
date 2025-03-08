@@ -25,9 +25,10 @@ To run the Farm Management Android App, follow these steps:
 5. **Run the App**: Start the app using `npm start` or `yarn start`.
 
 6. **Test the App**: Open the app on an Android emulator or a physical device to explore its functionalities.
+   
 
-7. **Explore Features**: Experiment with weather updates, seed purchasing, seed information, and disease prediction features to understand their functionality.
+8. **Explore Features**: Experiment with weather updates, seed purchasing, seed information, and disease prediction features to understand their functionality.
 
-8. **Provide Feedback**: Share your feedback and suggestions for improving the app's usability and effectiveness.
+9. **Provide Feedback**: Share your feedback and suggestions for improving the app's usability and effectiveness.
 
 Overall, the Farm Management Android App integrates essential tools and resources to empower farmers with valuable insights and decision-making support for efficient agricultural practices. It utilizes MongoDB for database management and integrates Razorpay for seamless payment transactions.
